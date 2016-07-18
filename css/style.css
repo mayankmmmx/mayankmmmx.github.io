@@ -10,6 +10,19 @@ body {
   font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+@media screen and (min-width: 41em) {
+    body,
+    html {
+      font-size: 14px; }
+}
+
+@media screen and (max-width: 41em) {
+    body,
+    html {
+      font-size: 10px;
+    } 
+}
+
 .panel {
   height: 100%;
   display: table;
