@@ -13,14 +13,15 @@ body {
 @media screen and (min-width: 41em) {
     body,
     html {
-      font-size: 14px; }
+      font-size: 14px;
+    }
 }
 
 @media screen and (max-width: 41em) {
     body,
     html {
       font-size: 10px;
-    } 
+    }
 }
 
 .panel {
