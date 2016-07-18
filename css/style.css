@@ -243,7 +243,7 @@ a {
   -o-transition: 0.2s ease-in-out;
 }
 
-@media screen and (max-width: 41.6875em) {
+@media screen and (max-width: 640px) {
   .mobile-hide {
     display: none; }
 }
